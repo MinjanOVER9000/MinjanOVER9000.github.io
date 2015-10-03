@@ -3697,6 +3697,9 @@
 		background-attachment: scroll;
 	}
 
+#rounded {
+	border-radius: 20px;
+}
 /* Footer */
 
 	#footer {
